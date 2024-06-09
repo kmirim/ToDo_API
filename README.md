@@ -1,8 +1,6 @@
 # ToDo_API
 
-### Parte 1: Fundamentos Essenciais ###
-
-O que é uma API?
+### O que é uma API?
 
 - [ ] Definição e propósito
 - [ ] Tipos de APIs (REST, SOAP, GraphQL)

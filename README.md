@@ -17,8 +17,7 @@
 * XML
   
 <a href = "#MOL_DADOS">Modelagem de dados:</a> 
-- [ ] Modelagem de dados:
-* Definição, como funciona e como se relaciona com API.
+- [ ] Definição, como funciona e como se relaciona com API.
   
 <a href = "#ROUTS">Rotas (Endpoints)</a> 
 - [ ] GET /tarefas (listar todas as tarefas)
@@ -28,13 +27,13 @@
 - [ ] DELETE /tarefas/:id (excluir uma tarefa)
 
 <a href = "#CONTROL">Controladores (Controllers)</a>
-- [ ] Implementa a lógica de cada rota, interagindo com o modelo de dados
+- [ ] Implementa a lógica de cada rota, interagindo com o modelo de dados.
 
 <a href = "#MODEL">Controladores (Controllers)</a>
-- [ ] Cria funções para realizar as operações CRUD no banco de dados (ou na estrutura de dados em memória)
+- [ ] Cria funções para realizar as operações CRUD no banco de dados (ou na estrutura de dados em memória).
 
 <a href = "#TEST">Testes:</a>
-- [ ] Testes unitários para garantir o funcionamento correto da API
+- [ ] Testes unitários para garantir o funcionamento correto da API.
 <hr>
  
 <div id = "#API"> 

@@ -1,10 +1,9 @@
 # ToDo_API
 
-O que é uma API?
-
-- [ ] Definição e propósito
-- [ ] Tipos de APIs (REST, SOAP, GraphQL)
-- [ ] Vantagens de usar APIs
+- [ ] O que é uma API:
+ * Definição e propósito
+ * Tipos de APIs (REST, SOAP, GraphQL)
+ * Vantagens de usar APIs
 
 - [ ] Arquitetura REST:
 * Princípios e restrições
